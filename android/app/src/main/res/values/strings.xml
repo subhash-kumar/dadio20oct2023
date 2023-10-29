@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dadio</string>
+    <string name="facebook_app_id">317828375938376</string>
+    <string name="fb_login_protocol_scheme">fb317828375938376</string>
+    <string name="notification_channel_id">Dadio.notification_Id</string>
+    <string name="default_notification_channel_id">Dadio</string>
+    <string name="incoming_call_channel_id">incoming_call</string>
+
+</resources>

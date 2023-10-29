@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265491959516",
+    "firebase_url": "https://dadio-4a05f.firebaseio.com",
+    "project_id": "dadio-4a05f",
+    "storage_bucket": "dadio-4a05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265491959516:android:afcfc115229ebee819ae19",
+        "android_client_info": {
+          "package_name": "com.dadio.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265491959516-o43jbqr3a1278jahjgi8r3om898r6o42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dadio.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "265491959516-tc06pvs6cg0ci36hsm2l2fehtujg3p1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3ITUwSxSjGZzKqN18GyV63avwYg0EzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265491959516-tc06pvs6cg0ci36hsm2l2fehtujg3p1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

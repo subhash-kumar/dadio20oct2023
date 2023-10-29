@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Below line is handled by '@expo/configure-splash-screen' command and it's discouraged to modify it manually -->
+  <color name="splashscreen_background">#FFFFFF</color>
+  <color name="blue">#05adf6</color>
+  <color name="red">#DA2330</color>
+  <color name="green">#1DA309</color>
+  <color name="black">#000000</color>
+  <color name="white">#FFFFFF</color>
+</resources>
